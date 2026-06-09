@@ -23,7 +23,7 @@ Verkaufsunterlagen und Landingpage für meinen **BMW 540i xDrive Luxury Line** (
 - BMW 540i xDrive Limousine (G30), 2019, ca. 90'600 km
 - 340 PS (250 kW) Reihensechszylinder, ZF 8-Gang-Automat, xDrive
 - Luxury Line · BMW Individual · Cashmere Silbermetallic
-- Preis: CHF 36'900.– (Verhandlungsbasis) · Standort Pfäffikon SZ
+- Preis: CHF 33'900.– (Verhandlungsbasis) · Standort Pfäffikon SZ
 
 ## Entwicklung
 

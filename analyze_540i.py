@@ -9,7 +9,7 @@ import statistics as st
 
 # Our car (see inserat.md).
 OURS = {
-    "price": 36900, "km": 90600, "year": 2019,
+    "price": 33900, "km": 90600, "year": 2019,
     "body": "Limousine", "drivetrain": "xDrive", "trim": "Luxury Line",
 }
 
