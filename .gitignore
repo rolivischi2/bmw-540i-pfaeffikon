@@ -1,0 +1,16 @@
+# Vercel
+.vercel/
+site/.vercel/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Generated review artifact (regenerable from photos/)
+car_photos.pdf
+
+# Claude Code local config
+.claude/
