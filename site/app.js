@@ -1,4 +1,4 @@
-/* BMW 540i landing page — interactions */
+/* BMW 540i landing page · interactions */
 (function () {
   "use strict";
 

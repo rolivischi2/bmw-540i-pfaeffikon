@@ -1,4 +1,4 @@
-# BMW 540i xDrive — Verkauf
+# BMW 540i xDrive · Verkauf
 
 Verkaufsunterlagen und Landingpage für meinen **BMW 540i xDrive Luxury Line** (2019).
 
@@ -14,7 +14,7 @@ Verkaufsunterlagen und Landingpage für meinen **BMW 540i xDrive Luxury Line** (
 | `inserat.md` | Fertiger Inserat-Text (AutoScout24), Schweizer Hochdeutsch |
 | `vergleich.md` | Marktpreis-Vergleich gegen andere 540i (2019–2020) in der CH |
 | `build_assets.py` | HEIC → JPEG konvertieren + alle Bilder web-optimiert nach `site/assets/` |
-| `scrape_540i.py` | Scraper für AutoScout24.ch (Playwright) — vergleichbare 540i-Inserate |
+| `scrape_540i.py` | Scraper für AutoScout24.ch (Playwright), vergleichbare 540i-Inserate |
 | `analyze_540i.py` | Erzeugt `vergleich.md` aus den Scraper-Daten |
 
 ## Eckdaten

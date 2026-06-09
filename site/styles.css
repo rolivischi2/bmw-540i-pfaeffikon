@@ -1,5 +1,5 @@
 /* ============================================================
-   BMW 540i xDrive — Dark Luxury landing page
+   BMW 540i xDrive · Dark Luxury landing page
    Display: Fraunces · Body: Hanken Grotesk · Mono: JetBrains Mono
    ============================================================ */
 
@@ -108,6 +108,8 @@ em{font-style:italic}
 .nav__links a:hover::after{width:100%}
 .nav__cta{display:flex;align-items:center;gap:1rem}
 .nav__price{font-family:"JetBrains Mono",monospace;font-size:.85rem;color:var(--gold-bright)}
+.nav__lang{font-family:"JetBrains Mono",monospace;font-size:.75rem;letter-spacing:.12em;color:var(--muted);border:1px solid var(--line);border-radius:100px;padding:.42em .8em;transition:color .3s,border-color .3s}
+.nav__lang:hover{color:var(--gold-bright);border-color:var(--gold)}
 
 /* ---------- hero ---------- */
 .hero{position:relative;min-height:100svh;display:flex;align-items:flex-end;overflow:hidden}
@@ -202,7 +204,7 @@ em{font-style:italic}
 }
 .ambiente__text{max-width:var(--maxw);margin:0 auto 2.8rem;max-width:34ch}
 .ambiente__text p{color:var(--muted);margin-top:1.3rem;max-width:54ch}
-.ambiente__grid{max-width:1360px;margin:0 auto;display:grid;grid-template-columns:repeat(4,1fr);gap:.7rem}
+.ambiente__grid{max-width:1360px;margin:0 auto;display:grid;grid-template-columns:repeat(3,1fr);gap:.7rem}
 .ambiente__grid figure{overflow:hidden;border-radius:3px;aspect-ratio:4/3}
 .ambiente__grid img{width:100%;height:100%;object-fit:cover;cursor:zoom-in;transition:transform .8s var(--ease)}
 .ambiente__grid figure:hover img{transform:scale(1.06)}
