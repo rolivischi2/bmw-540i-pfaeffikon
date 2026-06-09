@@ -2,7 +2,8 @@
 
 Verkaufsunterlagen und Landingpage für meinen **BMW 540i xDrive Luxury Line** (2019).
 
-🔗 **Live-Seite:** https://site-wheat-rho-69.vercel.app
+🔗 **Live (DE):** https://site-wheat-rho-69.vercel.app
+🔗 **Live (EN):** https://site-wheat-rho-69.vercel.app/en
 
 ## Inhalt
 
