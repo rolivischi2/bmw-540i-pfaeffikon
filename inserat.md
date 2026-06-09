@@ -10,7 +10,7 @@ Zum Verkauf steht mein gepflegter BMW 540i xDrive Luxury Line aus dem Jahr 2019.
 
 Es handelt sich um ein klassisches Langstreckenfahrzeug, das stets sorgfältig behandelt und kaum je sportlich gefordert worden ist. Der Wagen ist immer regelmässig gewartet worden; der letzte Service ist im Januar 2026 erfolgt. Das Servicepaket läuft bis 100'000 km, und es besteht eine Garantie bis Ende März 2027.
 
-Der 540i xDrive überzeugt mit dem kultivierten 3.0-Liter-Reihensechszylinder mit 335 PS, kombiniert mit der souveränen ZF 8-Gang-Automatik und dem sicheren Allradantrieb: kraftvoll, leise und sparsam auf langen Strecken. Aus eigener Erfahrung: Auf der Autobahn habe ich bei Tempolimit konstant rund 7 bis 7.5 Liter auf 100 km erreicht. Der B58-Reihensechszylinder ist ein bemerkenswert effizienter Motor.
+Der 540i xDrive überzeugt mit dem kultivierten 3.0-Liter-Reihensechszylinder mit 340 PS, kombiniert mit der souveränen ZF 8-Gang-Automatik und dem sicheren Allradantrieb: kraftvoll, leise und sparsam auf langen Strecken. Aus eigener Erfahrung: Auf der Autobahn habe ich bei Tempolimit konstant rund 7 bis 7.5 Liter auf 100 km erreicht. Der B58-Reihensechszylinder ist ein bemerkenswert effizienter Motor.
 
 Ausstattung (Auszug):
 - Luxury Line (Chrom-Niere und Chromzierleisten)
@@ -37,7 +37,7 @@ Kontakt: [Telefon / E-Mail bitte ergänzen]
 - Kilometerstand: ca. 90'600 km
 - Treibstoff: Benzin
 - Motor: 3.0-Liter Reihensechszylinder, TwinPower Turbo
-- Leistung: 335 PS (246 kW)
+- Leistung: 340 PS (250 kW)
 - Getriebe: ZF 8-Gang-Automat (Steptronic)
 - Antrieb: Allrad (xDrive)
 - Aussenfarbe: Cashmere Silbermetallic
