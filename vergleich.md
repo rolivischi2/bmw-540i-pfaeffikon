@@ -1,6 +1,6 @@
 # Preisvergleich: BMW 540i (2019–2020) auf AutoScout24.ch
 
-Automatisch erhoben mit `scrape_540i.py` (Stand: aktuelle Abfrage). Gefiltert auf **BMW 540i, Erstinverkehrsetzung 2019–2020, Benzin**, Region ganze Schweiz. Unser Fahrzeug: **Limousine xDrive Luxury Line, 2019, ca. 90'600 km, Preisvorstellung CHF 34'900.–**.
+Automatisch erhoben mit `scrape_540i.py` (Stand: aktuelle Abfrage). Gefiltert auf **BMW 540i, Erstinverkehrsetzung 2019–2020, Benzin**, Region ganze Schweiz. Unser Fahrzeug: **Limousine xDrive Luxury Line, 2019, ca. 90'600 km, Preisvorstellung CHF 36'900.–**.
 
 ## Marktübersicht (alle 540i, nach Preis)
 
@@ -25,8 +25,8 @@ Automatisch erhoben mit `scrape_540i.py` (Stand: aktuelle Abfrage). Gefiltert au
 
 ## Einordnung unseres Fahrzeugs
 
-Unsere Preisvorstellung von **CHF 34'900.–** liegt **über dem Median (CHF 32'900.–)** und nahe am oberen Ende des Marktes: von 7 vergleichbaren 540i sind **5 günstiger** als unser Inserat. Der teuerste gefundene 540i kostet CHF 35'900.–.
+Unsere Preisvorstellung von **CHF 36'900.–** liegt **über dem Median (CHF 32'900.–)** und nahe am oberen Ende des Marktes: von 7 vergleichbaren 540i sind **7 günstiger** als unser Inserat. Der teuerste gefundene 540i kostet CHF 35'900.–.
 
 **Zu beachten zugunsten unseres Fahrzeugs:** mit ca. 90'600 km liegt der Kilometerstand im Vergleich tief, das Fahrzeug ist unfallfrei, ab MFK, mit Garantie bis Ende März 2027, Servicepaket bis 100'000 km, BMW Individual Ausstattung, frische Ganzjahresreifen und Nichtraucher. Diese Argumente rechtfertigen einen Aufpreis gegenüber dem Median.
 
-**Einschätzung:** Die Stichprobe ist klein (der 540i ist in der CH selten). Wer am oberen Ende verkaufen will, sollte die genannten Stärken im Inserat klar betonen. Ein Preis im Bereich **CHF 33'000.– bis 35'000.–** dürfte schneller Interessenten anziehen; CHF 34'900.– ist ambitioniert, aber mit guter Ausstattung und tiefem km-Stand vertretbar.
+**Einschätzung:** Die Stichprobe ist klein (der 540i ist in der CH selten). Wer am oberen Ende verkaufen will, sollte die genannten Stärken im Inserat klar betonen. Ein Preis im Bereich **CHF 33'000.– bis 35'000.–** dürfte schneller Interessenten anziehen; CHF 36'900.– ist ambitioniert, aber mit guter Ausstattung und tiefem km-Stand vertretbar.
