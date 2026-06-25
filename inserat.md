@@ -45,5 +45,5 @@ Kontakt: [Telefon / E-Mail bitte ergänzen]
 - Türen / Plätze: 4 Türen / 5 Plätze
 - MFK: geprüft / gültig
 - Zustand: unfallfrei, sehr gepflegt
-- Preis: CHF 33'900.– (Verhandlungsbasis)
+- Preis: CHF 30'899.– (Verhandlungsbasis)
 - Standort: Pfäffikon SZ (Kanton Schwyz)
